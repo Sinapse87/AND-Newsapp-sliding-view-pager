@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NewsFeed</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="no_internet">No internet Connection</string>
+<string name="no_news">No News available</string>
+    <string name="API_KEY">298817106b56466fa6feea8f052d2f50</string>
+</resources>
